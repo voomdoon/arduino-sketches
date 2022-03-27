@@ -1,4 +1,4 @@
-//piezo-buzzer example tones
+//piezo-buzzer example beep sequences for accept and deny
 
 // ++++++++++ config ++++++++++
 // +++++ pin config +++++

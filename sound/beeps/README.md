@@ -1,1 +1,1 @@
-# piezo buzzer example beeps
+# piezo-buzzer example beeps
