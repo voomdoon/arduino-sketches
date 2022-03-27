@@ -2,6 +2,11 @@
 
 Collection of simple Arduino sketches.
 
+## How to use
+
+* Have related wiring.
+* Check and maybe update the configuration section regarding pin numbers. 
+
 ## Roadmap
 
 * Add wringing diagrams.
