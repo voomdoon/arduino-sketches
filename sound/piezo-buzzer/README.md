@@ -6,4 +6,4 @@
 
 ## References
 
-* https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/
+* [functions/advanced-io/tone](https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/)
